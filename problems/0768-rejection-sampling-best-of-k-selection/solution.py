@@ -19,15 +19,14 @@ def rejection_sampling_best_of_k(candidates, scores):
     return result
 
 
-# Example 1
+
 candidates = [['a', 'b', 'c']]
 scores = [[0.1, 0.5, 0.3]]
 
 print(rejection_sampling_best_of_k(candidates, scores))
-# Output: ['b']
 
 
-# Example 2: Multiple prompts
+
 candidates = [
     ['apple', 'banana', 'orange'],
     ['cat', 'dog', 'bird'],
@@ -41,4 +40,3 @@ scores = [
 ]
 
 print(rejection_sampling_best_of_k(candidates, scores))
-# Output: ['banana', 'cat', 'red']

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T14:29:15.034Z",
+  "generated_at": "2026-10-30T14:29:53.654Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -49,9 +49,9 @@
       "url": "https://www.deep-ml.com/problems/768",
       "path": "problems/0768-rejection-sampling-best-of-k-selection",
       "first_solved_at": "2026-10-30T14:29:14.470Z",
-      "last_pushed_at": "2026-10-30T14:29:14.470Z",
+      "last_pushed_at": "2026-10-30T14:29:53.267Z",
       "language": "python",
-      "lines": 45
+      "lines": 43
     }
   }
 }
